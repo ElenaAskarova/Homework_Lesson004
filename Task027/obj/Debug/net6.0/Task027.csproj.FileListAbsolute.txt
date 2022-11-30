@@ -1,0 +1,15 @@
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\bin\Debug\net6.0\Task027.exe
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\bin\Debug\net6.0\Task027.deps.json
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\bin\Debug\net6.0\Task027.runtimeconfig.json
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\bin\Debug\net6.0\Task027.dll
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\bin\Debug\net6.0\Task027.pdb
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\Task027.csproj.AssemblyReference.cache
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\Task027.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\Task027.AssemblyInfoInputs.cache
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\Task027.AssemblyInfo.cs
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\Task027.csproj.CoreCompileInputs.cache
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\Task027.dll
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\refint\Task027.dll
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\Task027.pdb
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\Task027.genruntimeconfig.cache
+D:\Документы\На сайт edu02\GeekBraince\Знакомство с языками программирования\Homework_Lesson004\Task027\obj\Debug\net6.0\ref\Task027.dll
